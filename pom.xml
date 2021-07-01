@@ -24,8 +24,6 @@
   </dependencies>
   <distributionManagement>
   <repository>
-    <id>releases</id>
-    <url>http://34.68.224.214:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
 </project>
